@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "351410766686",
+    "firebase_url": "https://mypos-10e87-default-rtdb.firebaseio.com",
+    "project_id": "mypos-10e87",
+    "storage_bucket": "mypos-10e87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351410766686:android:20193b959f677a83a445cf",
+        "android_client_info": {
+          "package_name": "com.aurumsystem.myfirebasedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351410766686-8jtgcv9e2opruub2r5u90ob1vic0p0vt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDjNMR3IhW5AgbOp_YmehhZvvkeV2HqVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351410766686-8jtgcv9e2opruub2r5u90ob1vic0p0vt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
